@@ -13,7 +13,8 @@
 - Minpts (minimun point): is threshold that has set in each circle
 - Eps : R raduis in speacific circle (threshold: will set by it situation, speacific problem or it's concept)
 
-**Sameple Data Point**
-![Alt text](/sample-data-points.png.png)
-**Applied DBSCAN**
-![alt text](/DBSCAN/applied-DBSCAN.png)
+## Sameple Data Point
+![Alt text](sample-data-points.png)
+
+## Applied DBSCAN
+![alt text](applied-DBSCAN.png)
