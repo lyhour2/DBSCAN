@@ -1,4 +1,4 @@
-# DBSCAN
+# DBSCAN (Density-Based Spatial Clustering of Applications with Noise)
 ## DBSCAN is a density-based algorithm.
 Density = number of points within a specified radius (Eps)
 
